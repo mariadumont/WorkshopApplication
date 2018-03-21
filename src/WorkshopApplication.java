@@ -9,7 +9,7 @@ public class WorkshopApplication {
 	private Invoice invoice1 = new Invoice();
 	
 
-	private WorkshopApplicationData data = new WorkshopApplicationData();
+	private InvoiceLine invoiceLine1 = new InvoiceLine();
 	
 	
 }
