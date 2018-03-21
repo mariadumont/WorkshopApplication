@@ -17,7 +17,6 @@ public class Principal {
 		int b=2;
 		return a+b;
 		//System.out.println("El resultado de la suma es "+resul);
-		
 	}
 
 	/**
