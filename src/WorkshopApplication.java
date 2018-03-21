@@ -6,15 +6,6 @@ public class WorkshopApplication {
 	
 	private Client client1 = new Client();
 	
-
-	// Invoice information
-	private int codInvoice;
-	private Date dateInvoice;
-	private double sum;
-	private int discount;
-	
-
-
 	private Invoice invoice1 = new Invoice();
 	
 
