@@ -9,11 +9,7 @@ public class WorkshopApplication {
 	private Invoice invoice1 = new Invoice();
 	
 
-	// Invoice line information
-	private int numInvoiceLine;
-	private int numArticles;
-	private int codArt;
-	private int codQuantity;
+	private WorkshopApplicationData data = new WorkshopApplicationData();
 	
 	
 }

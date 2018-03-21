@@ -7,5 +7,6 @@ public class Client {
 	public String cliFirstName;
 
 	public Client() {
+		
 	}
 }
