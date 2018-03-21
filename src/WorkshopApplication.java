@@ -3,6 +3,7 @@ import java.util.*;
 public class WorkshopApplication {
 
 	private Product product1 = new Product();
+	
 	// Client information
 	private int codCli;
 	private String cliDNI;
@@ -15,7 +16,7 @@ public class WorkshopApplication {
 	private double sum;
 	private int discount;
 	
-	
+
 	// Invoice line information
 	private int numInvoiceLine;
 	private int numArticles;

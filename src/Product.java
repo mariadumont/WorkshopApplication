@@ -1,5 +1,6 @@
 
 public class Product {
+	
 	public int codProd;
 	public String prodDescription;
 	public double prodPrice;
