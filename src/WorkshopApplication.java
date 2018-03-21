@@ -2,12 +2,7 @@ import java.util.*;
 
 public class WorkshopApplication {
 
-	// Product information
-	private int codProd;
-	private String prodDescription;
-	private double prodPrice;
-	private int prodStock;
-	
+	private Product product1 = new Product();
 	// Client information
 	private int codCli;
 	private String cliDNI;
